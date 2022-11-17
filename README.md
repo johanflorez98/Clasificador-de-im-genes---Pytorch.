@@ -3,4 +3,4 @@ Se presenta una [arquitectura](https://github.com/johanflorez98/Clasificador-de-
 
 En el mismo sentido, se presenta un modelo utilzando transfer learning para solucionar la presente aplicación.
 
-[Set de datos utilizado](https://drive.google.com/file/d/18w1oGfoo9AqIcJZ--E1_RX8-aeapPJ2U/view?usp=sharing)).
+[Set de datos utilizado](https://drive.google.com/file/d/18w1oGfoo9AqIcJZ--E1_RX8-aeapPJ2U/view?usp=sharing).
