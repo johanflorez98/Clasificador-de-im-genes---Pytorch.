@@ -3,4 +3,4 @@ Se presenta una [arquitectura](https://github.com/johanflorez98/Clasificador-de-
 
 En el mismo sentido, se presenta un modelo utilzando transfer learning para solucionar la presente aplicación.
 
-El [set de datos](https://www.kaggle.com/datasets/gpiosenka/cards-image-datasetclassification) utilizado fue extraído de kaggle y es una versión menor a la disponible.
+[Set de datos utilizado](https://www.kaggle.com/datasets/gpiosenka/cards-image-datasetclassification).
